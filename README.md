@@ -1,2 +1,2 @@
-CurrencyXchange: Your Simple Currency Converter"
+CurrencyXchange: Your Simple Currency Converter
 CurrencyXchange is a user-friendly and intuitive mobile app designed to provide hassle-free currency conversion at your fingertips. Whether you're traveling abroad, shopping online, or managing international finances, CurrencyXchange makes it easy to convert between different currencies with real-time exchange rates. With its clean and minimalist interface, you can effortlessly calculate and compare values, saving you time and confusion. Download CurrencyXchange today and simplify your currency conversions in an instant.
